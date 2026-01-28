@@ -1,6 +1,7 @@
 {
   "name": "Journal-de-Muscu",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +11,12 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "date-fns": "latest",
+    "@tanstack/react-query": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest",
+    "react-router-dom": "latest"
   }
 }
